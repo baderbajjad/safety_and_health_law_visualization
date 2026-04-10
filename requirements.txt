@@ -1,1 +1,8 @@
-
+pandas
+scikit-learn
+transformers
+arabert
+camel-tools
+networkx
+matplotlib
+plotly
