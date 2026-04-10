@@ -1,5 +1,3 @@
-# safety_and_health_law_visualization
-AI-powered Visualization and Similarity Network for Saudi Safety and Health Laws
 # Saudi Safety & Health Law Intelligence (SSLI) 🇸🇦
 ### نظام ذكاء اصطناعي لتحليل وتصور شبكة القوانين والأنظمة السعودية للسلامة والصحة المهنية
 
