@@ -1,0 +1,2003 @@
+ 
+ 
+                   
+ 
+ 
+ 
+ 
+Saudi Building Code–General 
+Summary of Content 
+(SBC 201-CR-18) 
+األمانة العامة    
+ اللجنة الوطنية لكود
+البناء السعودي 
+مخترص محتوى 
+كود البناء السعودي العام
+ 
+ 
+ 
+املحتويات* 
+الباب 
+Chapter
+العنوان 
+Title
+ 
+الصفحة 
+Page
+ 
+1
+ 
+ مجال كو
+د البناء السعودي وقابلية تطبيقه 
+Scope and Administration 
+1
+ 
+2
+ التعاريف 
+Definitions 
+1
+ 
+3
+ 
+ تصنيف املنشآت حسب االستخدام
+واإلشغال 
+Use and Occupancy Classification 
+2
+ 
+4
+ 
+املتطلبات التفصيلية الخا
+صة بناءً على االستخدام واإلشغال 
+Special Detailed Requirements Based On Use and 
+Occupancy 
+3
+ 
+5
+ ارتفاعات ومساحات املباني العامة 
+General Building Heights and Areas 
+4
+ 
+6
+ 
+ أنواع
+اإلنشاءات 
+Types of Construction 
+5
+ 
+7
+ تج هيزات
+الحماية من الحريق والدخان 
+Fire and Smoke Protection Features 
+5
+ 
+8
+ التشطيبات الداخلية 
+Interior Finishes 
+6
+ 
+9
+ أنظمة الحماية من الحريق 
+Fire Protection Systems 
+6
+ 
+10
+ وسائل الخروج 
+Means of Egress 
+7
+ 
+11
+ 
+ إمكانية الوصول 
+Accessibility 
+8
+ 
+ 
+ 
+ 
+12
+ البيئة الداخلية 
+Interior Environment 
+9
+ 
+13
+ كفاءة الطاقة 
+Energy Efficiency 
+9
+ 
+14
+ الجدران الخارجية 
+Exterior Walls 
+9
+ 
+15
+ تجميعات ومنشآت األسطح 
+Roof Assemblies and Roof-top Structures 
+10
+ 
+16
+ التصميم اإلنشائي 
+Structural Design 
+10
+ 
+17
+ عم
+ليات التفتيش واالختبارات الخاصة 
+Special Inspections and Tests 
+11
+ 
+18
+ التربة واألساسات 
+Soils and Foundations 
+11
+ 
+19
+ الخرسانة 
+Concrete 
+12
+ 
+20
+ األلومونيوم 
+Aluminum 
+12
+ 
+21
+ البناء الطوبي 
+Masonry 
+12
+ 
+22
+ الفوالذ 
+Steel 
+13
+ 
+23
+ الخشب 
+Wood 
+13
+ 
+24
+ الزجاج والتزجيج 
+Glass and Glazing 
+14
+ 
+ 
+ 
+ 
+ 
+  
+( * في حال وجود أي مالحظات على الترجمة يرجى مراسلتنا على البريد اإللكترونيfeedback@sbc.gov.sa
+)
+25
+ 
+ ألواح الجبس
+واملنتجات اللوحية الجبسية والجص 
+Gypsum Board, Gypsum Panel Products and Plaster 
+14
+ 
+26
+ البالستيك 
+Plastic 
+15
+ 
+27
+ الكهرباء 
+Electrical 
+15
+ 
+28
+ األنظمة امليكانيكية 
+Mechanical Systems 
+16
+ 
+29
+ أنظمة السباكة 
+Plumbing Systems 
+16
+ 
+30
+ املصاعد وأنظمة النقل 
+Elevators and Conveying Systems 
+16
+ 
+31
+ التشييد الخاص 
+Special Construction 
+16
+ 
+32
+ التعديات على الحق العام 
+Encroachments into the Public Right-of-way 
+17
+ 
+33
+ 
+ احتياطات السالمة
+أثناء التشييد 
+Safeguards During Construction 
+17
+ 
+34
+ 
+ محجوز 
+Reserved 
+17
+ 
+35
+ املواصفات املرجعية 
+Referenced Standards 
+18
+ 
+ 
+ 
+1 
+ 
+ الباب(1) 
+.مجال كود البناء السعودي وقابلية تطبيقه 
+Scope and Administration. 
+Chapter 1 
+ يحدد الباب األول حدود قابلية تطبيق الكود ويصف كيفية تطبيقه
+وإنفاذه، ويتكون من جزئين : الجزء األول: املجال وقابلية التطبيق 
+ (األقسام101
+-
+102
+  والتنفيذ
+ اإلدارة
+ الثاني:
+ والجزء
+)، 
+ (األقسام103
+-
+116
+( ). يحدد القسم101
+ ) املباني واملنشآت التي تقع ضمن
+ نطاق اختصاصه، ويشير-حسب التطبيق-
+ إلى أكواد البناء السعودي
+ األخرى. ويتم تحديد نطاق الكودات واملواصفات
+املرجعية إلى الحد املش ار
+إليه، انظر                      
+ 
+( القسم102
+-4
+ .)
+ 
+  الغرض من كود البناء هو اعتماده كوثيقة واجبة النفاذ قانونيا، ول ن يكون
+ نافذا  بدون أحكام كافية إلدراته وإلزامه. كما تحدد أحكام الباب األول
+ واجبات وصالحيات مسؤول البناء املعيّن من الجهات ذات العالقة وكذلك
+ح.قوق وامتيازات املصمم واملقاول ومالك املبنى 
+Chapter 1 establishes the limits of applicability of the 
+code and describes how the code is to be applied and 
+enforced. Chapter 1 is in two parts, Part 1— Scope and 
+Application 
+(Sections 
+101-102) 
+and  
+Part 2—Administration and Enforcement (Sections 103-
+116). Section 101 identifies which buildings and 
+structures come under its purview and references other 
+SBCNC codes as applicable. Standards and codes are 
+scoped to the extent referenced (see Section 102.4) . 
+The building code is intended to be adopted as a legally 
+enforceable document and it cannot be effective without 
+adequate provisions 
+for 
+its 
+administration 
+and 
+enforcement. The provisions of Chapter 1 establish the 
+authority and duties of the code official appointed by the 
+jurisdiction having authority and also establish the rights 
+and privileges of the design professional, contractor and 
+property owner. 
+( الباب2) 
+.التعاريف 
+Definitions. 
+Chapter 2 
+ توجد قائمة مرتبة أبجديا  لجميع املصطلحات املعرفة في هذا الباب، كما
+ أن املصطلحات املعرفة ذات الصلة بباب أو قسم معين موجودة في ذلك
+ الباب أو القسم باإلشارة إلى الباب الثاني لغرض التعريف، وعندما يتم
+ وضع مصطلح معرف في أي باب، فإن املعنى قابل للتطبيق في جميع أجزاء
+.الكود 
+ األكواد هي مستندات فنية، حيث يمكن أن تؤثر كل كلمة ومصطلح و عالمة
+ ترقيم على معنى نص الكود والنتائج املقصودة. غالب  ا ما يستخدم الكود
+ املصطلحات التي لها معنى فريد في الكود، ويمكن أن يختلف املعنى في الكود
+ .بشكل كبير عن املعنى املفهوم عادة للمصطلح عند استخدامه خارج الكود
+عندما يكون فهم تعريف املصطلح أساسي  ا أو ضروري  ا بشكل خاص لف هم
+ ،حكم معين من أحكام الكود فإنه يتم عرض املصطلح بخط مائل أينما
+.ظهر في الكود 
+ كما يجب أن يكون مستخدم الكود على دراية بهذا الباب
+An alphabetical listing of all defined terms is located in 
+Chapter 2. Defined terms that are pertinent to a specific 
+chapter or section are also found in that chapter or 
+section with a reference back to Chapter 2 for the 
+definition. While a defined term may be listed in one 
+chapter or another, the meaning is applicable throughout 
+the code. 
+Codes are technical documents and every word, term and 
+punctuation mark can impact the meaning of the code 
+text and the intended results. The code often uses terms 
+that have a unique meaning in the code and the code 
+meaning can differ substantially from the ordinarily 
+understood meaning of the term as used outside of the 
+code. Where understanding of a term’s definition is 
+especially key to or necessary for understanding a 
+particular code provision, the term is shown in italics 
+wherever it appears in the code . The user of the code 
+ 
+ 
+2 
+ 
+  ويقوم بمراجعته جيدا
+؛ ألن التعريفات أساسية للتفسير الصحيح للكود، 
+و في حالة عدم تعريف مصطلح معين، يكون لذلك املصطلح
+املعنى ا ملتفق
+. عليه غالبا 
+should be familiar with and consult this chapter because 
+the definitions are essential to the correct interpretation 
+of the code. Where a term is not defined, such terms shall 
+have the ordinarily accepted meaning. 
+( الباب3) 
+.تصنيف املنشآت حسب االستخدام واإلشغال 
+Use and Occupancy Classification. 
+Chapter 3 
+يقدم الباب الثالث تصننيف املباني واملنشنآت وأجزابها بناء  على الغرض أ
+و 
+األغراض التي تسنتخدم من أجلها ، حيث( يحدد القسنم302
+ ) املجموعات
+ .التي يجنب أن تصننننف ف هنا جميع املبناني واملنشننننآت وأجزابهنا كمنا
+ت حندد
+( األقسننام من303
+ 
+ إلى312
+ .) خصننائص اإلشننغال لتصننيف كل مجموعة
+و
+في بعض األقسنام 
+ يتم تنظيم تصننيفات مجموعة محددة ذات متطلبات
+مشتركة كمجموعة 
+ واحدة
+ب
+حيث ينطبق مصطلح واحد على الجميع، ع لى
+سنننناينل املثنال: 
+( املجموعناتA-1
+ وA-2
+ وA-3
+ وA-4
+ وA-5
+ ) هي مجموعنات
+ فردية للمباني من نوع"التجمعات"، بينما يشنمل املصنطلح الع
+نننننننننننننننننننن ام
+"
+Group A" جميع هنذه املجموعنات الف ردينة. كمنا تشننننمنل املجموعنات
+ األخرى: مبناني مكناتنب أألننننحناب األعمنا( لGroup B
+ )، املبناني التعليميننة
+(
+Group E
+( )، املنشنننآت الصننناعيةGroup F
+ )، املنشنننآت عالية ال طورة
+(
+Group H
+( )، مؤسنسنات الرعاية الصنحية وامجتماعيةGroup I
+ ) واملباني
+( التجاريةM
+( ) واملباني السكنيةGroup R) ومباني املستودع
+نننننننننننننننننننننننن ات
+(
+Group S) واملنشنآت املتنوعة غير 
+( املصنفةU
+ .)
+ كما
+يعني الرقم األصننغر 
+ في بعض
+اإلشغامت خطر ا أعلى، ولكن ذلك 
+.م ينطبق في جميع األحوال 
+يعد تحديد استخدام املباني أمر ا مهم  ا للغاية
+؛ 
+ ألنه يحدد انسجام األبواب
+ املتبقية من الكود. يعمل اإلشغال مع متطلبات امرتفاع واملساحة ونوع
+ التشييد في الباب ال امس والباب السادس، باإلضافة إلى األحكام ال اصة
+ في الباب الرابع، لتحديد "ال طر املكافئ"، أو توفير مستوى معقول من
+ الحماية أو سالمة األرواح لشاغلي املبنى. ينطوي تحديد امل اطر املكافئة
+( :على ثالثة اعتبارات مترابطة1
+ ) مستوى خطر الحريق املرتبط باإلشغال
+( املحدد للمنشأة؛2
+ ) الحد من مخاطر الحريق عن طريق الحد من مساحة
+ األرضية وارتفاع املبنى بناء  على حمل الوقود (املحتويات القابلة لالحتراق
+Chapter 3 provides for the classification of buildings, 
+structures and parts thereof based on the purpose or 
+purposes for which they are used. Section 302 identifies 
+the groups into which all buildings, structures and parts 
+thereof must be classified. Sections 303 through 312 
+identify the occupancy characteristics of each group 
+classification. 
+In 
+some 
+sections, 
+specific 
+group 
+classifications having requirements in common are 
+collectively organized such that one term applies to all. 
+For example, Groups A-1, A-2, A-3, A-4 and A-5 are 
+individual groups for assembly-type buildings. The 
+general term “Group A,” however, includes each of these 
+individual groups. Other groups include Business (B), 
+Educational (E), Factory (F-1, F-2), High Hazard (H-1, H-2, 
+H-3, H-4, H-5), Institutional (I-1, I-2, I-3, I-4), Mercantile 
+(M), Residential (R-1, R-2, R-3, R-4), Storage (S-1, S-2) and 
+Utility (U). In some occupancies, the smaller number 
+means a higher hazard, but that is not always the case . 
+Defining the use of the buildings is very important as it 
+sets the tone for the remaining chapters of the code. 
+Occupancy works with the height, area and construction 
+type requirements in Chapters 5 and 6, as well as the 
+special provisions in Chapter 4, to determine “equivalent 
+risk,” or providing a reasonable level of protection or life 
+safety for building occupants. The determination of 
+equivalent 
+risk 
+involves 
+three 
+interdependent 
+considerations: (1) the level of fire hazard associated with 
+the specific occupancy of the facility; (2) the reduction of 
+fire hazard by limiting the floor area and the height of the 
+building based on the fuel load (combustible contents 
+and burnable building components); and (3) the level of 
+overall fire resistance provided by the type of 
+ 
+ 
+3 
+ 
+ومكونات املبنى الق( ابلة لالحتراق)؛ و3
+ ) مستوى مقاومة الحريق الشاملة
+ التي يوفرها نوع التشييد املستخدم في البناء. كلما زادت مخاطر الحريق
+ املحتملة املشار إل ها كوظيفة للمجموعة، كلما قل امرتفاع واملساحات
+.املسموح بها لنوع التشييد املحدد 
+يلعب تصنيف اإلشغال أيض  ا دور ا رئيسي  ا ف
+ي تنظيم ووصف تدابير الح ماية
+ املناسبة. ومن هذا املنطلق، تعتمد متطلبات أنظمة الحماية من الحريق
+ ووسائل ال روج على تصنيف اإلشغال (انظر الباب التاسع والباب
+ العاشر). تحتوي األقسام األخرى من الكود أيض  ا على متطلبات تتعلق
+بتصنيف مجموعات البناء. على سايل املثال، يح( دد القسم706
+ )
+ متطلبات تصنيفات مقاومة الحريق بالجدران واملرتبطة بتصنيف
+( اإلشغال، ويحتوي القسم803
+-
+11
+ ) على متطلبات التشطيب الداخلي
+ التي تعتمد على تصنيف اإلشغال. يتم استخدام املساحة بدم  من إشغال
+ املبنى وذلك لتحديد حمل اإلشغال (القسم1004) والحمل الحي (القس م
+1607
+.)
+ 
+ خالل العمر امفتراض ي للمبنى، ستتطور األنشطة في املبنى وتتغير. وحيثما
+ تتناول أحكام الكود امستخدامات بشكل مختلف، فإن امنتقال من نشاط
+ إلى آخر أو من مستوى نشاط إلى آخر هو-بحكم تعريفه-تغييرا  لإلشغال ،
+حيث يجب أن يكون اإلشغال الجديد متوافق  ا مع أحكام 
+ الكود القابلة
+.للتطبيق 
+construction used for the building. The greater the 
+potential fire hazards indicated as a function of the group, 
+the lesser the height and area allowances for a particular 
+construction type . 
+Occupancy classification also plays a key part in 
+organizing and prescribing the appropriate protection 
+measures. As such, threshold requirements for fire 
+protection and means of egress systems are based on 
+occupancy classification (see Chapters 9 and 10). Other 
+sections of the code also contain requirements respective 
+to the classification of building groups. For example, 
+Section 706 specifies requirements for fire wall fire-
+resistance ratings that are tied to the occupancy 
+classification of a building and Section 803.11 contains 
+interior finish requirements that are dependent upon the 
+occupancy classification. The use of the space, rather 
+than the occupancy of the building, is utilized for 
+determining occupant loading (Section 1004) and live 
+loading (Section 1607).  
+Over the useful life of a building, the activities in the 
+building will evolve and change. Where the provisions of 
+the code address uses differently, moving from one 
+activity to another or from one level of activity to another 
+is, by definition, a change of occupancy. The new 
+occupancy must be in compliance with the applicable 
+provisions. 
+( الباب4) 
+ املتطلبات التفصيلية الخاصة بناءً على االستخدام
+.واإلشغال 
+Special 
+Detailed 
+Requirements 
+Based On Use and Occupancy. 
+Chapter 4 
+ يحتوي الباب الرابع على متطلبات حماية امستخدامات واإلشغامت
+ ال اصة، وهي مكملة ملا تبقى من الكود، كما يحتوي على أحكام قد تغير
+ املتطلبات املوجودة في األجزاء األخرى من الكود؛ ومع ذلك، فإن املتطلبات
+العامة للكود م تزال سارية ما لم يتم تعديلها في الباب، على سا
+ي ،ل املثال
+ تنطبق حدود امرتفاعات واملساحات املنصوص عل ها في الباب ال امس
+ على جميع اإلشغامت ال اصة ما لم يتم تحديدها في الباب الرابع، في هذه
+Chapter 4 contains the requirements for protecting 
+special uses and occupancies, which are supplemental to 
+the remainder of the code. Chapter 4 contains provisions 
+that may alter requirements found elsewhere in the code; 
+however, the general requirements of the code still apply 
+unless modified within the chapter. For example, the 
+height and area limitations established in Chapter 5 apply 
+to all special occupancies unless Chapter 4 contains 
+ 
+ 
+4 
+ 
+ الحالة، تحل الحدود الواردة في الباب الرابع محل تلك املوجودة في األقسام
+ األخرى. من أمثلة ذلك حدود امرتفاع واملساحة ملواقف السيارات
+( املفتوحة الواردة في القسم406
+-5-4
+ )، والتي تحل محل الحدود الواردة في
+( القسمين504
+() و506
+ .)
+ كما أن في بعض الحامت، ليس من الضروري
+تطبيق أحكا
+م الباب الرابع، على سايل املثال: 
+ إذا كان مبنى مركز تجار ي
+( مغطى يتوافق مع أحكام الكود للمجموعةM)، فإن 
+( القسم402
+ ) م
+ يطبق؛ بينما يجب تطبيق األقسام األخرى التي تتناول استخدام أو معالجة
+ أو تشغيل على ذلك اإلشغال املحدد مثل املسارح واملنصات واملباني
+ الترف هية ال اصة واملواد ال طرة (األقسام410
+ و411
+ و414
+.)
+ 
+ يشمل الباب الرابع متطلبات املباني والحامت التي تنطبق
+على 
+ مجموعة
+ واحدة أو أكثر من مجموعة، مثل املباني الشاهقة أو املباني تحت األرض
+ .أو املباني ذات األفنية الداخلية و قد تنطوي امستخدامات ال اصة أيض  ا
+( على إشغال وعمليات محددة، مثل املجموعةH
+ )، املواد ال طرة، أو عمل
+التشطيبات القابلة لالشتعال، أو غرف التجفيف، أو 
+ الطالء العضوي 
+ أو
+ التخزين القابل لالحتراق أو غرف غاز وقود الهيدروجين، والتي يتم تنسيقها
+( جميع  ا مع الكود السعودي للحماية من الحرائقSBC 801
+ ). ويتم إعطاء
+ اعتبار خاص للمناطق ذات امستخدام ال اص، مثل مباني املومت
+املغطاة، واإلشغامت املرتبطة باملركبات، واملب
+اني الترف هية ال اص ة واملباني
+ ذات الصلة بالطائرات، ويؤخذ في امعتبار املرافق ال اصة داخل
+ اإلشغامت األخرى، مثل املسارح واملنصات وغرف عرض الصور املتحركة
+ومنشآت لعب األطفال ومالجئ الحماية من العواصف. وأخير ا، حتى يمكن 
+بسهولة فه
+م الحزمة الشاملة مليزات الحماية ، يتم تناول اعتبارات خاصة
+( إلشغامت محددة: املجموعاتI-1
+ وI-2
+ وI-3
+ وR-1
+ وR-2
+ وR-3
+ وR-4
+ ،)
+.ومرافق الرعاية اإلسعافية ووحدات العيش/ العمل 
+height and area limitations. In this case, the limitations in 
+Chapter 4 supersede those in other sections. An example 
+of this is the height and area limitations for open parking 
+garages given in Section 406.5.4, which supersede the 
+limitations given in Sections 504 and 506 . In some 
+instances, it may not be necessary to apply the provisions 
+of Chapter 4. For example, if a covered mall building 
+complies with the provisions of the code for Group M, 
+Section 402 does not apply; however, other sections that 
+address a use, process or operation must be applied to 
+that specific occupancy, such as stages and platforms, 
+special amusement buildings and hazardous materials 
+(Sections 410, 411 and 414) . 
+The chapter includes requirements for buildings and 
+conditions that apply to one or more groups, such as high-
+rise buildings, underground buildings or atriums. Special 
+uses may also imply specific occupancies and operations, 
+such as for Group H, hazardous materials, application of 
+flammable finishes, drying rooms, organic coatings and 
+combustible storage or hydrogen fuel gas rooms, all of 
+which are coordinated with the SBC 801. Unique 
+consideration is taken for special use areas, such as 
+covered 
+mall 
+buildings, 
+motor-vehicle-related 
+occupancies, special amusement buildings and aircraft-
+related occupancies. Special facilities within other 
+occupancies are considered, such as stages and 
+platforms, motion picture projection rooms, children’s 
+play structures and storm shelters. Finally, in order that 
+the overall package of protection features can be easily 
+understood, 
+unique 
+considerations 
+for 
+specific 
+occupancies are addressed: Groups I-1, I-2, I-3, R-1, R-2, 
+R-3, R-4, ambulatory care facilities and live/work units. 
+ 
+( الباب5) 
+.ارتفاعات ومساحات املباني العامة 
+General Building Heights and Areas. 
+Chapter 5 
+ يحتوي الباب ال امس على األحكام التي تنظم الحد األدنى لحدود املساحة
+وحدود امرتفاع لنوع التشييد بناء  على إشغال املبنى، 
+ حيث
+يُ سمح 
+ بزيادة
+Chapter 5 contains the provisions that regulate the 
+minimum type of construction for area limits and height 
+limits based on the occupancy of the building. Height and 
+ 
+ 
+5 
+ 
+ امرتفاع واملساحة (بما في ذلك مساحات األقبية والطوابق املسروقة
+ ومنصات املعدات) بناء  على وجود واجهة مفتوحة لوصول قسم اإلطفاء
+ ونوع الحماية بالرش والفصل (األقسام503
+ 
+ إلى506
+ و510
+ ). يتم تخفيض
+ هذه الحدود للمباني التي يزيد ارتفاعها عن ثالثة طوابق فوق مستوى
+ األر( ض وفق  ا للقسمين506
+-2-3
+() و506
+-2-4
+ ). تشمل األحكام على حماية
+ و/ أو فصل امستخدامات العارضة أو الطارئة (الجدول509
+ ،)
+ واإلشغامت التابعة أو امللحقة (القسم508
+-2
+ ) وامشغامت امل تلطة في
+ نفس املبنى (األقسام506
+-2-2 و506
+-2-4 و508
+-3 و508
+-4 و510
+ .)
+يسمح أن تكون امل باني غير محدودة املساحة في إشغامت معينة عندما
+ تستوفي األحكام ال اصة (القسم507
+.)
+ 
+area increases (including allowances for basements, 
+mezzanines and equipment platforms) are permitted 
+based on open frontage for fire department access, and 
+the type of sprinkler protection provided and separation 
+(Sections 503-506, 510). These thresholds are reduced for 
+buildings over three stories in height in accordance with 
+Sections 506.2.3 and 506.2.4. Provisions include the 
+protection and/or separation of incidental uses (Table 
+509), accessory occupancies (Section 508.2) and mixed 
+uses in the same building (Sections 506.2.2, 506.2.4, 
+508.3, 508.4 and 510). Unlimited area buildings are 
+permitted in certain occupancies. 
+( الباب6) 
+.أنواع اإلنشاءات 
+Types of Construction. 
+Chapter 6 
+ يمكن مالحظة الترابط بين اعتبارات السالمة من الحرائق من خالل النظر
+ إلى الجدولين(
+601
+() و602
+ ) اللذان يوضحان تصنيفات مقاومة الحريق
+ للعناصر اإلنشائية الرئيسية التي تشكل مبنى بالنسبة للتصنيفات
+( ال مس ألنواع التشييد. نوع التشييدI
+ ) هو التصنيف الذي يتطلب بشكل
+ عام أعلى تصنيفات مقاومة الحريق للعناصر اإلنشائية، بينما نوع
+( التشييدV)، الذي تم ت حديده كنوع تشييد قابل لالشتعال، يتطلب عموم  ا
+ أقل كمية من العناصر اإلنشائية املصنفة كمقاومة للحريق. كلما زادت
+ مخاطر الحريق املحتملة املشار إل ها كوظيفة للمجموعة، كلما قل امرتفاع
+( واملساحة املسموح بها لنوع التشييد املحدد. يتضمن القسم603
+ ) قائمة
+بالعناصر الق ابلة لالحتراق التي يمكن أن تكون جزء ا من مبنى غير قابل
+( لالحتراق (النوعI
+ ) والنوع(II)
+.)
+ 
+The interdependence of these fire safety considerations 
+can be seen by first looking at Tables 601 and 602, which 
+show the fire-resistance ratings of the principal structural 
+elements comprising a building in relation to the five 
+classifications for types of construction. Type I 
+construction is the classification that generally requires 
+the highest fire-resistance ratings for structural elements, 
+whereas Type V construction, which is designated as a 
+combustible type of construction, generally requires the 
+least amount of fire-resistance-rated structural elements. 
+The greater the potential fire hazards indicated as a 
+function of the group, the lesser the height and area 
+allowances for a particular construction type. Section 603 
+includes a list of combustible elements that can be part of 
+a non-combustible building (Types I and II construction). 
+( الباب7) 
+.تجهيزات الحماية من الحريق والدخان 
+Fire 
+and 
+Smoke 
+Protection 
+Features. 
+Chapter 7 
+ يحدد هذا الباب املواد والتقنيات واألساليب املقبولة التي يمكن من خاللها
+ تصميم البناء املقترح وتقييمه وفق  ا لتحديد قدرة املبنى على الحد من تأثير
+ الحريق. توفر متطلبات البناء املصنف كمقاوم للحريق في الباب السابع
+مقاومة سلبية منتشار وتأثيرات الحريق. كما تشمل أ
+نواع الفواصل ع لى
+The provisions of Chapter 7 present the fundamental 
+concepts of fire performance that all buildings are 
+expected to achieve in some form. This chapter identifies 
+the acceptable materials, techniques and methods by 
+which proposed construction can be designed and 
+ 
+ 
+6 
+ 
+ ،جدران الحريق، وحواجز الحريق، وقواطع الحريق، والتجميعات األفقية
+ وحواجز الدخان، وقواطع الدخان. ينتج عن الحريق حرارة يمكن أن
+ تضعف املكونات اإلنشائية ومنتجات الدخان التي تتساب في تلف
+ .املمتلكات وتعرض شاغل ها لل طر 
+تعمل متطلبات الباب السابع ف ي انسجام مع متطلبات امرتفاع واملساحة
+ (الباب ال امس) وأنظمة الكشف عن الحريق وأنظمة اإلخماد (الباب
+ التاسع) ومتطلبات وسائل ال روج لشاغلي املبنى (الباب العاشر) محتواء
+ الحريق في حال حدوثه مع املساعدة على ضمان قدرة شغالي املبنى على
+.ال روج بأمان 
+evaluated against to determine a building’s ability to limit 
+the impact of fire. The fire-resistance-rated construction 
+requirements within Chapter 7 provide passive resistance 
+to the spread and effects of fire. Types of separations 
+addressed include fire walls, fire barriers, fire partitions, 
+horizontal assemblies, smoke barriers and smoke 
+partitions. A fire produces heat that can weaken 
+structural components and smoke products that cause 
+property damage and place occupants at risk. 
+The requirements of Chapter 7 work in unison with height 
+and area requirements (Chapter 5), active fire detection 
+and suppression systems (Chapter 9) and occupant egress 
+requirements (Chapter 10) to contain a fire should it 
+occur while helping ensure occupants are able to safely 
+exit. 
+( الباب8) 
+.التشطيبات الداخلية 
+Interior Finishes. 
+Chapter 8 
+ يحتوي هذا الباب على متطلبات األداء للسيطرة على اندمع الحريق داخل
+ .املباني من خالل الحد من التشطيبات الداخلية ومواد الزخرفة أو الديكور
+ أظهرت تجارب الحرائق السابقة أن التشطيبات الداخلية ومواد الزخر فة
+ أو الديكور هي عناصر رئيسية في تطور وانتشار الحريق. تتطلب أحكام
+ الباب الثامن املواد املستخدمة كتشطيبات وديكورات داخلية لتحقيق
+ مؤشر انتشار اللهب أو معايير انتشار اللهب بناء  على خطر الحريق النسبي
+ املرتبط باإلشغال. نظر ا ألن الدخان يمثل أيض  ا خطر ا مر
+تبط ا بالحري ،ق
+ يحتوي هذا الباب على قيود على خصائص تطور الدخان للتشطيبات
+.الداخلية. يتم تقييم أداء املواد بناء  على معايير امختبار 
+This chapter contains the performance requirements for 
+controlling fire growth within buildings by restricting 
+interior finish and decorative materials. Past fire 
+experience has shown that interior finish and decorative 
+materials are key elements in the development and 
+spread of fire. The provisions of Chapter 8 require 
+materials used as interior finishes and decorations to 
+meet certain flame-spread index or flame-propagation 
+criteria based on the relative fire hazard associated with 
+the occupancy. As smoke is also a hazard associated with 
+fire, this chapter contains limits on the smoke 
+development characteristics of interior finishes. The 
+performance of the material is evaluated based on test 
+standards. 
+( الباب9) 
+.أنظمة الحماية من الحريق 
+Fire Protection Systems. 
+Chapter 9 
+ يصف هذا الباب الحد األدنى من املتطلبات لألنظمة النشطة ملعدات
+ الحماية من الحريق ألداء الوظائف التالية: كشف الحريق، تنايه
+ الشاغلين أو إدارة اإلطفاء بحامت الطوارئ؛ والسيطرة على الدخان
+ والسيطرة على الحريق أو إطفاؤه. بشكل عام، تعتمد املتطلبات على
+Chapter 9 prescribes the minimum requirements for 
+active systems of fire protection equipment to perform 
+the following functions: detect a fire; alert the occupants 
+or fire department of a fire emergency; and control 
+smoke and control or extinguish the fire. Generally, the 
+ 
+ 
+7 
+ 
+ إشغال املبنى وارتفاعه ومساحته ألن هذه هي العوامل األكثر تأثير ا على
+ قدرات مكافحة الحرائق وامل اطر النساية ملبنى معين أو جزء منه. يوازي
+ هذا الباب ويكرَّر بشكل كبير في الباب التاسع من الكود السعودي للحماية
+( من الحرائقSBC 801
+( )؛ ومع ذلك، يحتوي الباب التاسع من الكودSBC 
+801
+ .) على معايير امختبار الدوري الغير مضمنة في كود البناء السعودي
+ إضافة إلى ذلك، يتم تكرار املتطلبات ال اصة ألنظمة الحماية من الحريق
+ بناء  على امستخدام واإلشغال في الباب الرابع من كود البناء السعودي في
+( الباب التاسع من الكود السعودي للحماية من الحرائقSBC 801
+ )
+.كوسيلة إيضاح للمستخدم 
+requirements are based on the occupancy, the height and 
+the area of the building, because these are the factors 
+that most affect fire-fighting capabilities and the relative 
+hazard of a specific building or portion thereof. This 
+chapter parallels and is substantially duplicated in 
+Chapter 9 of the Saudi Fire Code (SBC 801); however, the 
+SBC 801 Chapter 9 also contains periodic testing criteria 
+that are not contained in the SBC. In addition, the special 
+fire protection system requirements based on use and 
+occupancy found in SBC Chapter 4 are duplicated in SBC 
+801 Chapter 9 as a user convenience. 
+( الباب10
+) 
+.وسائل الخروج 
+Means of Egress. 
+Chapter 10 
+ تنظم املعايير العامة املنصوص عل ها في هذا الباب تصميم وسائل ال روج
+ كطريقة أساسية لحماية األش اص في املباني من خالل السماح بنقل أو
+ إخالء شاغلي املبنى في الوقت املناسب، ولتوفير نهج أساس ي في تحديد نظام
+خروج آمن لجميع اإلشغامت، تم استخدام كال  من اللغة اإلرشا دية
+.واألدائية في هذا الباب 
+ يتناول هذا الباب جميع أجزاء نظام ال روج (على
+ سايل املثال: الوصول للمخرج، امل ارج وتفريغ امل رج) ويتضمن متطلبات
+ التصميم باإلضافة إلى األحكام التي تنظم املكونات الفردية. تفصل
+ املتطلبات الحجم والترتيب والعدد والحماية ملكونات وسائل ال ر وج. كما
+ تم تحديد ال صائص الوظيفية والتشغيلية للمكونات التي سيُ سمح
+ باستخدامها بشكل آمن دون معرفة خاصة أو جهد خاص. تعمل متطلبات
+ حماية وسائل ال روج بالتنسيق مع األقسام األخرى من الكود، مثل حماية
+ الفتحات الرأسية (انظر الباب السابع)، والتشطيب الداخلي (انظر
+ا لباب
+ )الثامن)، وأنظمة كشف الحريق وأنظمة اإلخماد (انظر الباب التاسع
+ والعديد من األقسام األخرى، جميعها لها تأثير على سالمة األرواح. تم تكرار
+( الباب العاشر من كود البناء السعودي العامSBC 201
+ ) في الباب العاشر
+( من الكود السعودي للحماية من الحرائقSBC 801)؛ بي نما يحتوي الكود
+(
+SBC 801
+.) على قسم إضافي لنظام وسائل ال روج في املباني القائمة 
+The general criteria set forth in Chapter 10 regulating the 
+design of the means of egress are established as the 
+primary method for protection of people in buildings by 
+allowing timely relocation or evacuation of building 
+occupants. Both prescriptive and performance language 
+is utilized in this chapter to provide for a basic approach 
+in the determination of a safe exiting system for all 
+occupancies. It addresses all portions of the egress 
+system (i.e., exit access, exits and exit discharge) and 
+includes design requirements as well as provisions 
+regulating individual components. The requirements 
+detail the size, arrangement, number and protection of 
+means of egress components. Functional and operational 
+characteristics also are specified for the components that 
+will permit their safe use without special knowledge or 
+effort. The means of egress protection requirements 
+work in coordination with other sections of the code, 
+such as protection of vertical openings (see Chapter 7), 
+interior finish (see Chapter 8), fire suppression and 
+detection systems (see Chapter 9) and numerous others, 
+all having an impact on life safety. Chapter 10 of the SBC 
+201 is duplicated in Chapter 10 of the SBC 801; however, 
+the SBC 801 contains one additional section on the means 
+of egress system in existing buildings. 
+ 
+ 
+8 
+ 
+( الباب11
+) 
+.إمكانية الوصول 
+Accessibility. 
+Chapter 11 
+ يتضمن الباب الحادي عشر أحكام  ا تحدد متطلبات إمكانية الوصول إلى
+ .املباني واملواقع واملرافق املرتبطة بها لألش اص ذوي امحتياجات ال اصة
+ الفلسفة األساسية للكود في موضوع إمكانية الوصول، هي أن يكون كل
+ء ش ي متاحا  للوصول، حيث ينعكس هذا في املتطلبات العامة (انظر ال
+ب ند
+1103
+-1
+ ). بعد ذلك تتناول املتطلبات العامة الحامت التي بموجبها م تكون
+ متطلبات إمكانية الوصول مطلوبة على شكل استثناءات. على الرغم من
+( أن كود البناء السعودي العامSBC 201
+ ) يحتوي على أحكام عامة
+( إلمكانية الوصول، فإن املواصفةICC / ANSI A117.1) هي املواصفة 
+.املرجعية لألحكام الفنية 
+ هناك العديد من مسائل إمكانية الوصول التي م تفيد األش اص ذوي
+ امحتياجات ال اصة فحسب، بل توفر أيض  ا فائدة ملموسة لألش اص
+ من غير ذوي امحتياجات ال اصة، حيث يمكن تحديد هذا النوع من
+ املتطلبات في الكود على أنه قابل للتطبيق بشكل عام دون تحد يده
+ ٍبالضرورة على وجه التحديد كمسألة تتعلق بإمكانية الوصول. عندئذ
+ يُعتبر هذا املتطلب "تم تعميمه". على سايل املثال: توجد أجهزة اإلنذار
+ املرئية في الباب التاسع، يتناول الباب العاشر متطلبات وسائل ال روج
+ .واملنحدرات متاحة الوصول 
+يتناول الكود السعودي للمبا( ني القائمةSBC 901
+ ) معايير الوصول
+ .للمباني القائمة 
+( امللحقE
+ ) عبارة عن معلومات تكميلية مضمنة في الكود لتناول إمكانية
+( الوصول للعناصر املوجودة في معاييرStandards for Accessible 
+Design
+ ) والتي لم تكن قابلة للتنفيذ عادة  من خالل نظام نهج تطبيق كود
+البناء ال تقليدي القياس ي (على سايل املثال: األسرة، الالفتات). يشير الكود
+( السعودي للمباني السكنيةSBC 1101
+ ) إلى الباب الحادي عشر من حيث
+ متطلبات إمكانية الوصول. لذلك، قد ينطبق هذا الباب على املباني
+( السكنية املشتملة في الكودSBC 1101
+.)
+ 
+Chapter 11 
+contains 
+provisions 
+that set 
+forth 
+requirements for accessibility of buildings and their 
+associated sites and facilities for people with physical 
+disabilities. The fundamental philosophy of the code on 
+the subject of accessibility is that everything is required 
+to be accessible. This is reflected in the basic applicability 
+requirement (see Section 1103.1). The code’s scoping 
+requirements then address the conditions under which 
+accessibility is not required in terms of exceptions to this 
+general mandate. While the SBC 201 contains scoping 
+provisions for accessibility (e.g., what, where and how 
+many), ICC/ANSI A117.1, Accessible and Usable Buildings 
+and Facilities, is the referenced standard for the technical 
+provisions (i.e., how). There are many accessibility issues 
+that not only benefit people with disabilities, but also 
+provide a tangible benefit to people without disabilities. 
+This type of requirement can be set forth in the code as 
+generally applicable without necessarily identifying it 
+specifically as an accessibility-related issue. Such a 
+requirement would then be considered as having been 
+“mainstreamed.” For example, visible alarms are located 
+in Chapter 9 and accessible means of egress and ramp 
+requirements are addressed in Chapter 10 . 
+Accessibility criteria for existing buildings are addressed 
+in the Saudi Existing Building Code (SBC 901) . 
+Appendix E is supplemental information included in the 
+code to address accessibility for items in the Standards for 
+Accessible Design that were not typically enforceable 
+through 
+the 
+standard traditional 
+building 
+code 
+enforcement approach system (e.g., beds, room signage). 
+The Saudi Residential Code (SBC 1101) references 
+Chapter 11 for accessibility provisions; therefore, this 
+chapter may be applicable to housing covered under the 
+(SBC 1101). 
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+( الباب12
+) 
+.البيئة الداخلية 
+Interior Environment. 
+Chapter 12 
+ يقدم الباب الثاني عشر الحد األدنى من
+املعايير للبيئة الداخلية للمب ،نى
+ حيث تتناول
+املعايير 
+ الحد األدنى من املساحات والحد األدنى من درجات
+ الحرارة والحد األدنى من مستويات اإلضاءة والتهوية، كما تتناول مجموعة
+املتطلبات الحد من انتقال الصوت عبر الجدران، وتهوية فراغات ال علية
+ .وفراغات الزحف كما يقدم 
+  أيضا 
+ متطلبات الحمامات ودورات املياه، بما
+ في ذلك ال صوصية ومعايير الجدران والقواطع واألرضيات ملقاومة تسرب
+.وضرر املياه 
+Chapter 12 provides minimum standards for the interior 
+environment of a building. The standards address the 
+minimum sizes of spaces, minimum temperature levels, 
+and minimum light and ventilation levels. The collection 
+of requirements addresses limiting sound transmission 
+through walls, ventilation of attic spaces and under floor 
+spaces (crawl spaces). Finally, the chapter provides 
+minimum 
+standards 
+for 
+toilet 
+and 
+bathroom 
+construction, including privacy shielding and standards 
+for walls, partitions and floors to resist water intrusion 
+and damage. 
+( الباب13
+) 
+.كفاءة الطاقة 
+Energy Efficiency. 
+Chapter 13 
+ الغرض من هذا الباب هو توفير الحد األدنى من متطلبات التصميم التي
+من شأنها تعزيز امستخدام 
+ الفعال للطاقة في املباني، حيث يتم توجيه
+ املتطلبات نحو تصميم أغطية املباني للحصول على املقاومة الحرارية
+ الكافية وخفض تسرب الهواء، ونحو تصميم واختيار األنظمة امليكانيكية
+ وأنظمة تس ين املياه والكهرباء واإلضاءة التي تعزز امستخدام الفعال
+ملوارد الطاقة املستنف دة، وللحصول على تفاصيل هذه املعايير، يتطلب
+( هذا الباب التصميم واإلنشاء وفق  ا للكود السعودي لترشيد الطاقةSBC 
+601
+ وSBC 602
+.)
+ 
+The purpose of Chapter 13 is to provide minimum design 
+requirements that will promote efficient utilization of 
+energy in buildings. The requirements are directed 
+toward the design of building envelopes with adequate 
+thermal resistance and low air leakage, and toward the 
+design and selection of mechanical, water heating, 
+electrical and illumination systems that promote effective 
+use of depletable energy resources. For the specifics of 
+these criteria, Chapter 13 requires design and 
+construction in compliance with the Saudi Energy 
+Conservation Code (SBC 601 and SBC 602). 
+( الباب14
+) 
+.الجدران الخارجية 
+Exterior Walls. 
+ 
+Chapter 14 
+ يتناول هذا الباب متطلبات الجدران ال ارجية للمباني. حيث يوفر الحد
+األدنى من املعايير ملواد تكسيات الجدران وتركيب تكسيات 
+ الجدر ان وقدرة
+ الجدار على توفير الحماية من العوامل الجوية، ويتطلب هذا الباب أيض  ا
+ أن تمتثل الجدران ال ارجية على خط البناء، أو الجدران الحاملة ألنواع
+ معينة من التشييد، للحد األدنى من تصنيفات مقاومة الحريق املحددة في
+ البابين السادس والسابع. يعتبر تركيب كل نو
+ع من أنواع تكسيات ال جدران
+ (ال شب أو الطوب أو الفينيل أو املواد املعدنية املركبة أو نظام العزل
+ والتشطيب ال ارجي) أمر ا بالغ األهمية ألدائه على املدى الطويل في حماية
+This chapter addresses requirements for exterior walls of 
+buildings. Minimum 
+standards for wall covering 
+materials, installation of wall coverings and the ability of 
+the wall to provide weather protection are provided. This 
+chapter also requires exterior walls that are close to lot 
+lines, or that are bearing walls for certain types of 
+construction, to comply with the minimum fire-resistance 
+ratings specified in Chapters 6 and 7. The installation of 
+each type of wall covering, be it wood, masonry, vinyl, 
+metal composite material or an exterior insulation and 
+finish system, is critical to its long-term performance in 
+ 
+ 
+10 
+ 
+ الجزء الداخلي من املبنى من عوامل وانتشار الحريق. كما يتناول هذا الباب
+  أيضا 
+ القيود املفروضة على استخدام املواد القابلة لالحتراق في عناصر
+.املبنى ال ارجية مثل الشرفات والحواف واملتون والزخارف املعمارية 
+protecting the interior of the building from the elements 
+and the spread of fire. Limitations on the use of 
+combustible materials on exterior building elements such 
+as balconies, eaves, decks and architectural trim are also 
+addressed in this chapter. 
+( الباب15
+) 
+.تجميعات ومنشآت األسطح 
+Roof Assemblies and Roof-top 
+Structures. 
+Chapter 15 
+يقدم الباب ال امس عشر مواصفات تجميعات 
+ األسطح وكذلك املنشآت
+ على أسطح املباني، حيث تتناول املواصفات بناء السطح وتغطيته والتي
+ تشمل على حاجز الحماية من العوامل الجوية في السطح-
+ وفي معظم
+الحامت-
+ حاجز مقاوم للحريق. هذا الباب إرشادي ويستند على عقود من
+ ال برة باملواد التقليدية امل تلفة، ولكنه يتناول
+أيض  ا املنتجات 
+ الحديثة
+مثل الحراشف الكهروضوئية. هذه القواعد مهمة جد  ا لتحقيق األداء 
+( الفعال ألي نوع من أنواع أغطية السقف. يتناول القسم1510
+ ) املنشآت
+ على السطح، بما في ذلك املالحق العلوية وال زانات واألبراج واملآذن. كما
+يجب التعامل مع املالحق العلوية األكبر من املنصوص عل ها في هذا الباب 
+.على أنها طابق وذلك وفق الباب ال امس من هذا الكود 
+Chapter 15 provides standards for both roof assemblies 
+as well as structures that sit on top of the roof of 
+buildings. The criteria address roof construction and 
+covering which includes the weather-protective barrier at 
+the roof and, in most circumstances, a fire-resistant 
+barrier. The chapter is prescriptive in nature and is based 
+on decades of experience with various traditional 
+materials, but it also addresses newer products such as 
+photovoltaic shingles. These prescriptive rules are very 
+important for satisfying performance of one type of roof 
+covering or another. Section 1510 addresses roof-top 
+structures, including penthouses, tanks, towers and 
+spires. Roof-top penthouses larger than prescribed in this 
+chapter must be treated as a story under Chapter 5. 
+( الباب16
+) 
+.التصميم اإلنشائي 
+Structural Design. 
+Chapter 16 
+ يصف الباب السادس عشر الحد األدنى من متطلبات التحميل اإلنشائي
+ .لالستخدام في تصميم املباني واملكونات اإلنشائية و
+يشمل الحد ا ألدنى من
+ األحمال التصميية، وتعيين فئات امل اطر فضال  عن منهجيات التصميم
+ املسموح بها. تم توفير املعايير للحد األدنى من األحمال التصميمية
+ (األحمال الحية، األحمال امليتة، أحمال الرياح، أحمال املطر، أحمال
+الفيضان وأحمال الهزة األرضية (الزمزل) باإلض افة إلى مجموعات األحمال
+ املطلوبة). إن تطبيق هذه األحمال واملتزام بمعايير ال دمية سيعزز حماية
+ ،األرواح واملمتلكات. يتطلب التصميم اإلنشائي تناول ظروف املوقع واملكان
+.لذلك، يتم توفير خرائط للمطر والزمزل والرياح في املناطق امل تلفة 
+Chapter 16 prescribes minimum structural loading 
+requirements for use in the design and construction of 
+buildings and structural components. It includes 
+minimum design loads, assignment of risk categories, as 
+well as permitted design methodologies. Standards are 
+provided for minimum design loads (live, dead, wind, 
+rain, flood and earthquake as well as the required load 
+combinations). The application of these loads and 
+adherence to the serviceability criteria will enhance the 
+protection of life and property. Structural design needs to 
+address the conditions of the site and location. Therefore, 
+maps are provided of rainfall, seismic and wind criteria in 
+different regions. 
+ 
+ 
+ 
+11 
+ 
+( الباب17
+) 
+.عمليات التفتيش واالختبارات الخاصة 
+Special Inspections and Tests. 
+Chapter 17 
+ يقدم الباب السابع عشر مجموعة متنوعة من اإلجراءات واملعايير مختبار
+ املواد والتجميعات، ووسم املواد والتجميعات وإجراء التفتيش ال اص
+ للتجميعات اإلنشائية، ويفصّ ِّ ل في عمليات التفتيش املنصوص عل ها في
+الباب األول عن طريق اش تراط تفتيش خاص في حامت محددة-في بع ض
+ال
+حامت-
+ مالحظات إنشائية، ويوضح أيض  ا املسؤوليات اإلضافية للمالك
+ واملقاول واملصمم واملفتشين ال اصين. يعد التجميع الصحيح للمكونات
+ اإلنشائية، والجودة املناسبة للمواد املستخدمة والتطبيق املناسب للمواد
+ أمر ا ضروري  ا لضمان أن املبنى-بمجرد تشييده-
+ يتوافق مع الحد األ دنى
+ للمتطلبات اإلنشائية ومتطلبات مقاومة الحريق بالكود و كذلك
+ا لتصميم
+ املعتمد. وغالب  ا ما يتطلب تحديد هذا التوافق تفتيشا  واختبار ا مستمر ا أو
+ متكرر ا. يضع الباب السابع عشر معايير التفتيش ال اص وامختبار
+.واإلبالغ عن العمل إلى مسؤول البناء 
+Chapter 17 provides a variety of procedures and criteria 
+for testing materials and assemblies, labeling materials 
+and assemblies and special inspection of structural 
+assemblies. This chapter expands on the inspections of 
+Chapter 1 by requiring special inspection where indicated 
+and, in some cases, structural observation. It also spells 
+out additional responsibilities for the owner, contractor, 
+design professionals and special inspectors. Proper 
+assembly of structural components, proper quality of 
+materials used and proper application of materials are 
+essential to ensuring that a building, once constructed, 
+complies 
+with the structural and fire-resistance 
+minimums of the code and the approved design. To 
+determine this compliance often requires continuous or 
+frequent inspection and testing. Chapter 17 establishes 
+standards for special inspection, testing and reporting of 
+the work to the building official. 
+( الباب18
+) 
+.التربة واألساسات 
+Soils and Foundations. 
+Chapter 18 
+( يشير الباب الثامن عشر إلى الكود السعودي للتربة واألساساتSBC 
+303)، حيث يقدم الكود (
+SBC 303
+) 
+ معايير  ا لالعتبارات الجيوتقنية 
+ واإلنشائية في اختيار وتصميم وتركيب أنظمة األساسات لتدعم األحمال
+ التي باألعلى. يتضمن الكود متطلبات فحص التربة وتجهيز املوقع، بما في
+ ،ذلك القيم املسموح بها لتحمل التربة وحماية األساسات من تسرب املياه
+ويتناول املتطلبات األساسية لجميع أنواع األساسات، وكذلك مت
+ط لبات
+ األساسات السطحية واألساسات العميقة. يجب توخي الحذر عند
+ تخطيط وتصميم أنظمة األساسات وذلك بالحصول على معلومات كافية
+ عن التربة واستخدام اإلجراءات الهندسية املقبولة وال برة والحكم الفني
+.الجيد 
+Chapter 18 provides criteria for geotechnical and 
+structural considerations in the selection, design and 
+installation of foundation systems to support the loads 
+from the structure above. The chapter includes 
+requirements for soils investigation and site preparation 
+for receiving a foundation, including the allowed load-
+bearing values for soils and for protecting the foundation 
+from water intrusion. Section 1808 addresses the basic 
+requirements for all foundation types. Later sections 
+address foundation requirements that are specific to 
+shallow foundations and deep foundations. Due care 
+must be exercised in the planning and design of 
+foundation systems based on obtaining sufficient soils 
+information, the use of accepted engineering procedures, 
+experience and good technical judgment. 
+ 
+ 
+ 
+ 
+12 
+ 
+( الباب19
+) 
+.الخرسانة 
+Concrete. 
+Chapter 19 
+ يتناول هذا الباب الحد األدنى من املمارسات املقبولة للتصميم والتشييد
+ لل رسانة املستخدمة في املنشآت سواء  كانت عادية أو مسلحة، ويعتمد
+بشكل أساس ي على اإلشارة إلى الكود السعودي للمنشآت ال رس
+نن ن ان ن ية
+(
+SBC 304
+ )، ويتضمن أيض  ا مرجعيات ملواصفات إضافية. يجب تصميم
+ وتشييد املنشآت ال رسانية بحيث تتوافق مع هذا الكود وجميع
+ املواصفات املدرجة. هناك أقسام محددة من الباب تتناول البالطات
+ ال رسانية واملراس ي وال رسانة املرشوشة. ونظر ا لل صائص املتغيرة
+ للمواد والعديد من خيارات التصميم والتشييد املتاحة في استخدامات
+ ،ال رسانة
+ف.من الضروري العناية الالزمة والتحكم طوال عملية التشييد 
+This chapter provides minimum accepted practices for 
+the design and construction of buildings and structural 
+components using concrete—both plain and reinforced. 
+Chapter 19 relies primarily on the reference to SBC 304, 
+Building Code Requirements for Structural Concrete. The 
+chapter also includes references to additional standards. 
+Structural concrete must be designed and constructed to 
+comply with this code and all listed standards. There are 
+specific sections of the chapter addressing concrete slabs, 
+anchorage to concrete and shotcrete. Because of the 
+variable properties of material and numerous design and 
+construction options available in the uses of concrete, 
+due care and control throughout the construction process 
+is necessary. 
+( الباب20
+) 
+.األلومونيوم 
+Aluminum. 
+Chapter 20 
+يحتوي الباب العشرون على مواصفات استخدام األلومونيوم في تشييد 
+ ،املباني
+ح يث يتناول فقط التطبيقات اإلنشائية لأللومونيوم، وم يتناول
+ استخدام األملنيوم في املنتجات املتخصصة مثل واجهات املحالت أو
+ إطارات النوافذ أو األدوات املعمارية. يتناول الكود السعودي امليكانيكي
+(
+SBC 501
+ ) استخدام األلومونيوم في أنظمة التدفئة والتهوية وتكييف
+الهواء. كما يشير الباب إلى املواصفات الوطنية من جمعية األملني
+نننننن ن وم
+(
+the Aluminum Association
+ ) مستخدام األملنيوم في تشييد املباني، وإلى
+( املواصفةAA ASM 35
+( ) واملواصفةAA ADM 1
+ .)
+ و من خالل استخدام
+.املواصفات املوضحة، يمكن الحصول على التطبيق املناسب لهذه املواد 
+Chapter 20 contains standards for the use of aluminum in 
+building construction. Only the structural applications of 
+aluminum are addressed. The chapter does not address 
+the use of aluminum in specialty products such as 
+storefront or window framing or architectural hardware. 
+The use of aluminum in heating, ventilating or air-
+conditioning systems is addressed in the Saudi 
+Mechanical Code (SBC 501). The chapter references 
+national standards from the Aluminum Association for 
+use of aluminum in building construction, AA ASM 35, 
+Aluminum Sheet Metal Work in Building Construction, 
+and AA ADM 1, Aluminum Design Manual. By utilizing the 
+standards set forth, a proper application of this material 
+can be obtained. 
+( الباب21
+) 
+.البناء الطوبي 
+Masonry. 
+Chapter 21 
+ يقدم هذا الباب متطلبات شاملة وعملية لتشييد البناء
+الطوبي. تت طلب
+ أحكام الباب الحادي والعشرين الحد األدنى من املمارسات املقبولة
+ واستخدام املواصفات لتصميم وتشييد البناء الطوبي، حيث تتناول
+This chapter provides comprehensive and practical 
+requirements for masonry construction. The provisions of 
+Chapter 21 require minimum accepted practices and the 
+use of standards for the design and construction of 
+masonry structures. The provisions address: material 
+ 
+ 
+13 
+ 
+ األحكام: مواصفات املواد وطرق امختبار؛ أنواع تشييد الجدران؛ معايير
+التصاميم الهندسية والتجرياية؛ والتفاصيل املطلوبة للبنا
+ء ، بما في ذلك
+ تنفيذ البناء، كما تشتمل أحكام هذا الباب على منهجيات التصميم بما في
+ .ذلك تصميم اإلجهاد املسموح وتصميم املقاومة والتصميم التجريبي
+ ويتناول الباب أيضا  املواقد واملداخن الطوبية واملدافئ الطوبية ووحدة
+الطوب الزجاجي. يجب أن يمتثل التشييد املقاوم لل
+حريق باستخدام ال بناء
+ الطوبي إلى الباب السابع، كما تخضع األساسات الطوبية ملتطلبات الباب
+.الثامن عشر 
+specifications 
+and test methods; types of wall 
+construction; criteria for engineered and empirical 
+designs; and required details of construction, including 
+the 
+execution of 
+construction. Masonry 
+design 
+methodologies 
+including 
+allowable 
+stress 
+design, 
+strength design and empirical design are covered by 
+provisions of the chapter. Also addressed are masonry 
+fireplaces and chimneys, masonry heaters and glass unit 
+masonry. Fire-resistant construction using masonry is 
+also required to comply with Chapter 7. Masonry 
+foundations are also subject to the requirements of 
+Chapter 18. 
+( الباب22
+) 
+.الفوالذ 
+Steel. 
+Chapter 22 
+ يقدم الباب الثاني والعشرون املتطلبات الالزمة لتصميم وتشييد الفومذ
+ ،اإلنشائي (بما في ذلك التشييد املركب)، والفومذ املشكل على البارد
+ واألعصاب/ الروافد الفومذية، ومنشآت الكابالت الفومذية، ورفوف
+التخزين الفومذية، كما يحدد املعايير املناسبة للتصميم والتشيي
+د 
+ لهذه
+ األنواع من املنشآت، ويوفر خارطة طريق للمتطلبات الفنية املطبقة
+ للمنشآت الفومذية. وألن الفومذ مادة بناء غير قابلة لالحتراق، فهو مرتبط
+( بشكل شائع بتشييدات النوعI
+( ) والنوعII
+ )؛ ومع ذلك، يمكن استخدامه
+في جميع أنواع التشييد. يتطلب الباب الثاني والعشرون أن يكون ت صميم
+ واستخدام املواد الفومذية وفق  ا ملواصفات ومعايير الهيئة السعودية
+( للمواصفات واملقاييس والجودةSASO
+ )، واملعهد األمريكي لتشييد الفومذ
+(
+AISC
+( )، واملعهد األمريكي للحديد والصلبAISI
+ )، ومعهد الروافد
+( الفومذيةSJI) والجمعية األمريكية للمهندسين امل( دنيينASCE
+.)
+ 
+Chapter 22 provides the requirements necessary for the 
+design and construction of structural steel (including 
+composite construction), cold-formed steel, steel joists, 
+steel cable structures and steel storage racks. The chapter 
+specifies appropriate design and construction standards 
+for these types of structures. It also provides a road map 
+of the applicable technical requirements for steel 
+structures. Because steel is a noncombustible building 
+material, it is commonly associated with Types I and II 
+construction; however, it is permitted to be used in all 
+types of construction. Chapter 22 requires that the design 
+and use of steel materials be in accordance with the 
+specifications and standards of the Saudi Standards, 
+Metrology and Quality Organization (SASO), American 
+Institute of Steel Construction, the American Iron and 
+Steel Institute, the Steel Joist Institute and the American 
+Society of Civil Engineers. 
+( الباب23
+) 
+.الخشب 
+Wood. 
+ 
+Chapter 23 
+ يقدم هذا الباب الحد األدنى من املتطلبات لتصميم
+املباني واملنشآ ت التي
+ تستخدم ال شب واملنتجات ال شاية. تم تنظيم الباب حول ثالث
+( منهجيات للتصميم: التصميم بطريقة اإلجهاد املسموح بهASD
+ ،)
+( والتصميم بطريقة عامل الحمل واملقاومةLRFD
+ ) والتشييد التقليدي
+This chapter provides minimum requirements for the 
+design of buildings and structures that use wood and 
+wood-based products. The chapter is organized around 
+three design methodologies: allowable stress design 
+(ASD), load and resistance factor design (LRFD) and 
+ 
+ 
+14 
+ 
+ لإلطار ال فيف. كما يتضمن الباب إشارات إلى معايير التصميم و
+ا لتصنيع
+ مل تلف املنتجات ال شاية ومتطلبات التشييد العامة ومعايير التصميم
+ لألنظمة املقاومة للقوة الجاناية واملتطلبات املحددة لتطبيق طرق
+( التصميم الثالثة. وبشكل عام، تُ شيد املباني فقط من النوعIII
+ ) أو النوع
+(
+IV
+( ) أو النوعV
+.) من ال شب 
+conventional light-frame construction. Included in the 
+chapter are references to design and manufacturing 
+standards for various wood and wood-based products; 
+general construction requirements; design criteria for 
+lateral force-resisting systems and specific requirements 
+for the application of the three design methods. In 
+general, only Type III, IV or V buildings may be 
+constructed of wood. 
+( الباب24
+) 
+.الزجاج والتزجيج 
+Glass and Glazing. 
+Chapter 24 
+ يحدد هذا الباب املتطلبات ال اصة بالزجاج والتزجيج املستخدمة في
+ املباني واملنشآت التي تتعرض-عند تركيبها-للرياح والثلوج واألحم ،ال امليتة
+ ويشتمل على املتطلبات الهندسية والتصميمية. وتم تحديد املتطلبات
+ اإلنشائية اإلضافية في الباب السادس عشر. من امهتمامات األخر ى 
+ لهذا
+ الباب، الزجاج والتزجيج املستخدم في املساحات التي من املحتمل أن تتأثر
+( بالسكان. يحدد القسم2406
+ ) املواقع ال طرة بحيث يجب أن يكون
+ .الزجاج املركب مزجج بطريقة آمنة أو مدعوم بحواجز ملنع التأثير الاشري
+ يجب أن يفي التزجيج اآلمن باملعايير الصارمة وأن يتم مال
+حظته أو ت حديده
+ بشكل مناسب. يوفر هذا الباب متطلبات إضافية للزجاج والتزجيج في
+ ،حواجز الحماية، الدرابزينات، حاويات املصاعد ومصاعد املركبات
+.وكذلك في املرافق الرياضية 
+This chapter establishes regulations for glass and glazing 
+used in buildings and structures that, when installed, are 
+subjected to wind, snow and dead loads. Engineering and 
+design requirements are included in the chapter. 
+Additional structural requirements are found in Chapter 
+16. Another concern of this chapter is glass and glazing 
+used in areas where it is likely to be impacted by the 
+occupants. Section 2406 identifies hazardous locations 
+where glazing installed must either be safety glazing or 
+blocked to prevent human impact. Safety glazing must 
+meet stringent standards and be appropriately marked or 
+identified. Additional requirements are provided for glass 
+and glazing in guards, handrails, elevator hoist ways and 
+elevator cars, as well as in athletic facilities. 
+( الباب25
+) 
+ ألواح الجبس واملنتجات اللوحية الجبسية
+.والجص 
+Gypsum Board, 
+Gypsum Panel 
+Products and Plaster. 
+Chapter 25 
+ يحتوي الباب ال امس والعشرون على األحكام واملواصفات املرجعية التي
+ تنظم التصميم والتشييد والجودة أللواح الجاس واملنتجات اللوحية
+الجاسية والجص، كما يتناول ال رسانة الجاسية 
+ املسلحة، حيث أنها
+ تمثل املواد األكثر شيوع  ا للتشطيبات الداخلية وال ارجية في صناعة
+ البناء. كما يتناول هذا الباب بشكل أساس ي املسائل املتعلقة بمراقبة
+ الجودة فيما يتعلق بمواصفات املواد ومتطلبات التركيب. يتم تصنيع
+معظم املنتجات تحت مراقبة معايير الصناعة. ويحتا
+ج مسؤول البناء أو 
+Chapter 25 contains the provisions and referenced 
+standards that regulate the design, construction and 
+quality of gypsum board, gypsum panel products and 
+plaster. It also addresses reinforced gypsum concrete. 
+These represent the most common interior and exterior 
+finish materials in the building industry. This chapter 
+primarily addresses quality-control-related issues with 
+regard to material specifications and installation 
+requirements. Most products are manufactured under 
+the control of industry standards. The building official or 
+ 
+ 
+15 
+ 
+ املفتش في املقام األول إلى التحقق من استخدام املنتج املناسب وتركيبه
+ بشكل ألحيح لالستخدام واملوقع املقصود. وفي حين أنه غالب  ا ما يتم
+ استخدامه باساطة كأغطية الجدران واألسقف، إم أن التصميم
+والتطبيق املناسبين ضروريان لتوفير مقاومة للعوامل الج
+وية وال حماية
+.املطلوبة من الحريق لكل من املكونات اإلنشائية وغير اإلنشائية 
+inspector primarily needs to verify that the appropriate 
+product is used and properly installed for the intended 
+use and location. While often simply used as wall and 
+ceiling coverings, proper design and application are 
+necessary to provide weather resistance and required fire 
+protection for both structural and nonstructural building 
+components. 
+ 
+( الباب26
+) 
+.البالستيك 
+Plastic. 
+Chapter 26 
+ يتناول الباب السادس والعشرون استخدام البالستيك في تشييد املباني
+ ومكوناتها، كما يقدم مواصفات العزل بالبالستيك الرغوي، وكذلك
+ ،البالستيك الرغوي املستخدم في التشطيبات والتقسيمات الداخلية
+ والواجهات القشرية البالستيكية األخرى املستخدمة داخل املباني أو
+ خارجها. ينظم الباب الرابع عشر ،)بالستيك املحاذاة (التكسية الجانبي
+( وتتناول األقسام من2606
+ 
+ إلى2611
+ ) املواد البالستيكية الناقلة للضوء
+ بتشكيالتها امل تلفة مثل الجدران وألواح السقف واملناور والالفتات
+ والتزجيج، ويحتوي هذا الباب أيض  ا على متطلبات استخدام البوليمرات
+املقواة باأللياف والبولي
+مرات املقواة باأللياف الزجاجية والعزل البالستيكي 
+ العاكس. إضافة إلى ذلك، يتضمن الباب السادس والعشرون املتطلبات
+ .ال اصة باستخدام مركبات ال شب/ البالستيك أو البالستيك ال شبي
+ تظهر بعض املواد البالستيكية خصائص امنتشار السريع للهب وكثافة
+الدخان عند تعرضها للحري ق، ويمكن أن يؤدي تعرضها للحرارة الناتجة من
+ الحريق إلى تشوه بعضها، مما قد يؤثر على أدابها. تعتبر متطلبات وحدود
+ هذا الباب ضرورية للتحكم في استخدام منتجات البالستيك والبالستيك
+.الرغوي بحيث م تعرض سالمة شاغلي املبنى لل طر 
+The use of plastics in building construction and 
+components is addressed in Chapter 26. This chapter 
+provides standards addressing foam plastic insulation, 
+foam plastics used as interior finish and trim, and other 
+plastic veneers used on the inside or outside of a building. 
+Plastic siding is regulated by Chapter 14. Sections 2606 
+through 2611 address the use of light-transmitting 
+plastics in various configurations such as walls, roof 
+panels, skylights, signs and as glazing. Requirements for 
+the use of fiber-reinforced polymers, fiberglass-
+reinforced polymers and reflective plastic core insulation 
+are also contained in this chapter. Additionally, 
+requirements specific to the use of wood-plastic 
+composites and plastic lumber are contained in this 
+chapter. Some plastics exhibit rapid flame spread and 
+heavy smoke density characteristics when exposed to 
+fire. Exposure to the heat generated by a fire can cause 
+some plastics to deform, which can affect their 
+performance. The requirements and limitations of this 
+chapter are necessary to control the use of plastic and 
+foam plastic products such that they do not compromise 
+the safety of building occupants. 
+( الباب27
+) 
+.الكهرباء 
+Electrical. 
+Chapter 27 
+ ،نظر ا ألن األنظمة واملكونات الكهربائية هي جزء م يتجزأ في جميع املنشآت
+ فمن الضروري أن يتناول الكود تركيب هذه األنظمة. ولهذا الغرض، يشير
+( الباب السابع والعشرون إلى الكود الوطني للكهرباءNEC
+ ) والكود
+( السعودي الكهربائيSBC 401
+( ). إضافة إلى ذلك، يعالج القسم2702
+ )
+Since electrical systems and components are an integral 
+part of almost all structures, it is necessary for the code 
+to address the installation of such systems. For this 
+purpose, Chapter 27 references the National Electrical 
+Code (NEC) and SBC 401. In addition, Section 2702 
+ 
+ 
+16 
+ 
+ متطلبات الطاقة الطارئة والطاقة امحتياطية. كما يجب أن تتوافق هذه
+ األنظمة مع الكود السعودي للحماية من( الحرائقSBC 801
+ ) واملواصفات
+ املرجعية. يوفر هذا القسم أيض  ا مراجع ألقسام الكود امل تلفة التي
+ تتطلب الطاقة الطارئة والطاقة امحتياطية، مثل املباني الشاهقة واملباني
+.التي تحوي موادا  خطرة 
+addresses emergency and standby power requirements. 
+Such systems must comply with the Saudi Fire Code (SBC 
+801) and referenced standards. This section also provides 
+references to the various code sections requiring 
+emergency and standby power, such as high-rise 
+buildings and buildings containing hazardous materials. 
+( الباب28
+) 
+.األنظمة امليكانيكية 
+Mechanical Systems. 
+Chapter 28 
+ تشتمل جميع املباني تقريب  ا على أنظمة ميكانيكية، حيث يقدم هذا الباب
+( املراجع في الكود السعودي امليكانيكيSBC 501
+ ) والكود السعودي للوقود
+( الغازيSBC 1201
+ ) لتصميم وتركيب األنظمة
+امليكانيكية
+. إضافة إلى 
+ ذلك، يُ شير هذا الباب إلى الباب الحادي والعشرون من هذا الكود فيما
+.يخص املداخن واملدافئ واملواقد الطوبية 
+Nearly all buildings will include mechanical systems. This 
+chapter provides references to the Saudi Mechanical 
+Code (SBC 501) and the Saudi Fuel Gas Code (SBC 1201) 
+for the design and installation of mechanical systems. In 
+addition, Chapter 21 of this code is referenced for 
+masonry chimneys, fireplaces and barbecues. 
+( الباب29
+) 
+.أنظمة السباكة 
+Plumbing Systems. 
+Chapter 29 
+ ينظم
+الباب التاسع والعشرون الحد األدنى لألجهزة الصح
+ية التي يج ب
+ توفيرها لكل نوع
+بناء . كما ينظم هذا الباب أيض  ا مواقع األجهزة الصحية
+ املطلوبة في أنواع املباني امل تلفة ويتطلب مرافق منفصلة لكل من الذكور
+واإلناث باستثناء أنواع معينة من اإلشغامت الصغيرة. تأتي األحك
+ا م الواردة
+ في هذا الباب مباشرة من البابين الثالث والرابع من الكود السعودي
+( للتمديدات الصحيةSBC 701
+.)
+ 
+Chapter 29 regulates the minimum number of plumbing 
+fixtures that must be provided for every type of building. 
+This chapter also regulates the location of the required 
+fixtures in various types of buildings. This section requires 
+separate facilities for males and females except for 
+certain types of small occupancies. The regulations in this 
+chapter come directly from Chapters 3 and 4 of the Saudi 
+Plumbing Code (SBC 701). 
+( الباب30
+) 
+.املصاعد وأنظمة النقل 
+Elevators and Conveying Systems. 
+Chapter 30 
+ يوفر الباب الثالثون مواصفات تركيب املصاعد في املباني، حيث توفر
+ املواصفات املرجعية متطلبات نظام املصعد وآلياته. كما تم تقديم
+ املواصفات التفصيلية ملرفقات رافعة املصاعد وغرف اآلمت ومتطلبات
+.مقاسات املصاعد في هذا الباب 
+Chapter 30 provides standards for the installation of 
+elevators into buildings. Referenced standards provide 
+the requirements for the elevator system and 
+mechanisms. Detailed standards are provided in the 
+chapter for hoist way enclosures, machine rooms and 
+requirements for sizing of elevators. 
+( الباب31
+) 
+.التشييد الخاص 
+Special Construction. 
+Chapter 31 
+ يحتوي الباب الحادي والثالثون على مجموعة من األحكام لألنواع امل تلفة
+( من التشييدات ال اصة وال صائص املعمارية. يتناول القسم3104
+ )
+Chapter 31 contains a collection of regulations for a 
+variety of unique structures and architectural features. 
+Pedestrian walkways and tunnels connecting two 
+buildings are addressed in Section 3104. Membrane and 
+ 
+ 
+17 
+ 
+ ممرات( وأنفاق املشاة التي تربط مبنيين. ويتناول القسم3102
+ ) املنشآت
+الغشائية واملدعومة بالهواء. توجد ضمانات لسالمة حمامات السباحة ف ي
+( القسم3109
+ ). توجد معايير للمنشآت املؤقتة، بما في ذلك وثائق التشييد
+( املطلوبة في القسم3103
+ ). كما تناول الباب املنشآت املتنوعة مثل
+ املظالت، وال يمات، والالفتات، وأبراج امتصامت والبث والبوابات اآللية
+( للمركبات، انظر األقسام3105
+ 
+ حتى3108
+ ) والقسم(
+3110
+.)
+ 
+air-supported structures are addressed by Section 3102. 
+Safeguards for swimming pool safety are found in Section 
+3109. Standards for temporary structures, including 
+permit requirements are provided in Section 3103. 
+Structures as varied as awnings, marquees, signs, 
+telecommunication and broadcast towers and automatic 
+vehicular gates are also addressed (see Sections 3105 
+through 3108 and 3110). 
+( الباب32
+) 
+.التعديات على الحق العام 
+Encroachments 
+into the Public 
+Right-of-way.  
+Chapter 32 
+ يتم تصميم املباني واملنشآت من وقت آلخر لتمتد خارج حدود
+املل كية
+ ويمكن أن تنتهك الحق العام، وعادة ما تضع األنظمة املحلية خارج كود
+ البناء حدود ا ملثل هذه التعديات، ولهذه األنظمة أسبقية على أحكام هذا
+ الباب. يوفر هذا الباب معايير التعدي أسفل مستوى األرض التي تخص
+الدعم اإلنشائي والسراديب (املدافن) واملمرات، كما تنقس
+م التعديات 
+ فوق األرض إلى: أقل من2.4
+ متر، و2.4
+ 
+ متر إلى4.5
+ 
+ متر، وأعلى من4.5
+ 
+ متر، ويتضمن ذلك الدرجات (ال طوات) واألعمدة واملظالت وال يام
+ والالفتات والنوافذ والشرفات، ويتناول الباب أيضا  ال صائص املعمارية
+ املماثلة فوق مستوى األرض. يجب أن تمتثل ممرات املشاة
+ألحكام الب اب
+.الحادي والثالثين 
+Buildings and structures from time to time are designed 
+to extend over a property line and into the public right-
+of-way. Local regulations outside of the building code 
+usually set limits to such encroachments, and such 
+regulations take precedence over the provisions of this 
+chapter. Standards are provided for encroachments 
+below grade for structural support, vaults and areaways. 
+Encroachments above grade are divided into below 2.4 
+meters, 2.4 meters to 4.5 meters, and above 4.5 meters, 
+because of headroom and vehicular height issues. This 
+includes steps, columns, awnings, canopies, marquees, 
+signs, windows and balconies. Similar architectural 
+features above grade are also addressed. Pedestrian 
+walkways must also comply with Chapter 31. 
+( الباب33
+) 
+.احتياطات السالمة أثناء التشييد 
+Safeguards During Construction. 
+Chapter 33 
+ يقدم الباب الثالث والثالثون متطلبات السالمة أثناء تشييد وهدم املباني
+ واملنشآت. تهدف هذه املتطلبات إلى حماية العامة واملمتلكات املجاورة من
+ .اإلصابة أو الضرر إضافة إلى ذلك، ينص الباب على التركيب والتشغيل
+.التدريجي لساللم ال روج وأنظمة األنابيب الرأسية أثناء التشييد 
+Chapter 33 provides safety requirements during 
+construction and demolition of buildings and structures. 
+These requirements are intended to protect the public 
+from injury and adjoining property from damage. In 
+addition, the chapter provides for the progressive 
+installation and operation of exit stairways and standpipe 
+systems during construction. 
+( الباب34
+) 
+.محجوز 
+Reserved. 
+Chapter 34 
+خالل دورة تطوير 
+ الكود، صوت األعضاء على حذف الباب الرابع والثالثون
+( (املنشآت القائمة)، من كود البناء السعودي العامSBC 201
+ ) واإلشارة إلى
+During the code development cycle the membership 
+voted to delete Chapter 34, Existing Structures, from the 
+SBC 201 and reference the SBC 901. The provisions that 
+ 
+ 
+18 
+ 
+( الكود السعودي للمباني القائمةSBC 901
+ )، حيث ستظهر األحكام التي
+( كانت في الباب الرابع والثالثون في الكود السعودي للمباني القائمةSBC 
+901
+.)
+ 
+were in Chapter 34 will appear in the Saudi Existing 
+Building Code (SBC 901). Sections 3402 through 3411 are 
+repeated as SBC 901 Chapter 4 and Section 3412 as 
+Chapter 14. 
+ 
+( الباب35
+) 
+.املواصفات املرجعية 
+Referenced Standards. 
+Chapter 35 
+ يحتوي الكود على العديد من املراجع للمواصفات املستخدمة لتنظيم
+ املواد وطرق اإلنشاء. يحتوي الباب ال امس والثالثون على قائمة شاملة
+ لجميع املواصفات املشار إل ها في الكود، بما في ذلك املالحق. يجب اعتبار
+ املواصفات املشار إل ها في الكود جزءا  من متطلباته وذلك إلى املدى املحدد
+( لكل من هذه املراجع، انظر القسم102
+-4
+ ). إن اممتثال للمواصفة
+ املرجعية في هذا الكود ضروري 
+ لالمتثال ألحكامه. من خالل توفير
+ املواصفات املعتمدة، يمكن بسهولة تحديد متطلبات التشييد والتركيب
+ الالزمة لالمتثال للكود، وبالتالي، فإن أساس اممتثال للكود، قد وضع
+.وتمت إتاحته بشكل مساوِّ ملسؤول البناء واملقاول واملصمم واملالك 
+ تم تنظيم الباب ال امس والثالثون 
+ بطريقة تجعل من السهل تحديد
+ املواصفات املحددة، كما يسرد الباب جميع املواصفات املرجعية بترتيب
+ أبجدي مع اختصار الوكالة التي أصدرت املواصفة. يتم بعد ذلك إدراج
+ .مواصفة كل وكالة بالترتيب األبجدي أو الرقمي بناء  على التعريف القياس ي
+تحتوي القائمة أيض  ا على العنوا ن والتاريخ وأرقام أجزاء الكود التي تشير
+.إلى املواصفة 
+The code contains numerous references to standards that 
+are used to regulate materials and methods of 
+construction. Chapter 35 contains a comprehensive list of 
+all standards that are referenced in the code, including 
+the appendices. The standards are part of the code to the 
+extent of the reference to the standard (see Section 
+102.4). Compliance with the referenced standard is 
+necessary for compliance with this code. By providing 
+specifically adopted standards, the construction and 
+installation requirements necessary for compliance with 
+the code can be readily determined. The basis for code 
+compliance is, therefore, established and available on an 
+equal basis to the building code official, contractor, 
+designer and owner . 
+Chapter 35 is organized in a manner that makes it easy to 
+locate specific standards. It lists all of the referenced 
+standards, 
+alphabetically, 
+by 
+acronym 
+of 
+the 
+promulgating agency of the standard. Each agency’s 
+standards are then listed in either alphabetical or numeric 
+order based upon the standard identification. The list also 
+contains the title of the standard; the edition (date) of the 
+standard referenced; any addenda included as part of the 
+SBCNC adoption; and the section or sections of this code 
+that reference the standard. 
+.املالحق 
+Appendices. 
+( تم تقديم املالحق في كود البناء السعودي العامSBC 201
+ ) لتقديم معايير
+ اختيارية أو تكميلية لألحكام الواردة في األبواب الرئيسية من الكود. توفر
+ املالحق معلومات إضافية لإلدارة من قبل إدارة سالمة البناء وكذلك
+ املواصفات التي م تدار عادة من قبل جميع إدارات البناء. واملالحق لها
+Appendices are provided in the SBC 201 to offer optional 
+or supplemental criteria to the provisions in the main 
+chapters of the code. Appendices provide additional 
+information for administration of the Department of 
+Building Safety as well as standards not typically 
+administered by all building departments. Appendices 
+ 
+ 
+19 
+ 
+ نفس القوة والتأثير مثل األبواب ال مس و
+الثالثون األولى من كود البنا ء
+.السعودي فقط عندما يتم إقرارها بشكل خاص من الجهات ذات العالقة
+have the same force and effect as the first 35 chapters of 
+the SBC only when explicitly adopted by the jurisdiction. 
+)امللحق (أ 
+.مؤهالت املوظف 
+Employee Qualifications. 
+Appendix A 
+ تعتمد اإلدارة واإلنفاذ الفعامن ملجموعة أكواد البناء السعودي على تدريب
+ .وخبرة املوظفين املعينين من قبل السلطة امل تصة ومعرفته باألكواد
+( وينص القسم103
+ ) من الكود على إنشاء إدارة سالمة البناء ويدعو إلى
+تعيين مسؤول بناء ونواب مثل فاحص ي امل ططات واملفتشين. يوف
+ر 
+ امللحق (أ) معايير ال برة والتدريب وامعتماد ملسؤول البناء واملوظفين
+.اآلخرين املذكورين في الباب األول 
+Effective administration and enforcement of the family of 
+SBCNC Codes depends on the training and expertise of 
+the personnel employed by the jurisdiction and his or her 
+knowledge of the codes. Section 103 of the code 
+establishes the Department of Building Safety and calls 
+for the appointment of a building official and deputies 
+such as plans examiners and inspectors. Appendix A 
+provides 
+standards for experience, training and 
+certification for the building official and the other staff 
+mentioned in Chapter 1. 
+)امللحق (ب.لجنة النظر في املخالفات 
+Board of Appeals. 
+Appendix B 
+( يتطلب القسم113
+ ) من الباب األول إنشاء لجنة النظر في امل الفات من
+ أجل سماع قرارات الطعن أو القرارات الصادرة عن مسؤول البناء، حيث
+ يقدم امللحق (ب) معايير التأهيل ألعضاء اللجنة باإلضافة إلى اإلجراءات
+.التشغيلية 
+Section 113 of Chapter 1 requires the establishment of a 
+board 
+of 
+appeals 
+to 
+hear 
+appeals 
+regarding 
+determinations made by the building official. Appendix B 
+provides qualification standards for members of the 
+board as well as operational procedures of such board. 
+)امللحق (ج 
+( املجموعةU
+ )-
+.املباني الزراعية 
+Group U—Agricultural Buildings. 
+Appendix C 
+ يوفر امللحق (ج) مجموعة أكثر من املواصفات األقل قيودا  لتشييد املباني
+ الزراعية، بدم  من اتباع صارم ألحكام تشييد املشآت غير املصنفة، تعكس
+ امستخدام وحمل اإلشغال املحدد لها. تسمح أحكام امللحق-عند إقراره-
+بارتفاعات ومساحات معقولة تتناسب مع مخاطر املباني الزرا.عية 
+Appendix C provides a more liberal set of standards for 
+the construction of agricultural buildings, rather than 
+strictly following the Utility building provision, reflective 
+of their specific usage and limited occupant load. The 
+provisions of the appendix, when adopted, allow 
+reasonable heights and areas commensurate with the risk 
+of agricultural buildings. 
+)امللحق (د 
+.مناطق الحريق 
+Fire Districts. 
+Appendix D 
+ تم استخدام مناطق مكافحة الحرائق كأداة للحد من مخاطر الحريق في
+ مناطق املدينة ذات التطور املكثف واملركّ ز، وهي تستخدم بشكل أكثر
+( تكرار ا وفقا لألكواد النموذجية التي سبقت كود البناء السعوديSBC 
+201
+ )، وتم توفير امللحق للسماح للجهات ذات العالقة ملواصلة تعيين
+Fire districts have been a tool used to limit conflagration 
+hazards in areas of a city with intense and concentrated 
+development. More frequently used under the model 
+codes that preceded the Saudi Building Code (SBC 201), 
+the appendix is provided to allow jurisdictions to continue 
+the designation and use of fire districts. Fire district 
+ 
+ 
+20 
+ 
+ واستخدام مناطق الحريق. تقيد معايير منطقة الحريق بعض اإلشغامت
+.داخل املنطقة، باإلضافة إلى وضع حدود دنيا أعلى ملعايير التشييد 
+standards restrict certain occupancies within the district, 
+as well as setting higher minimum construction 
+standards. 
+)امللحق (هـ 
+.متطلبات الوصول التكميلية 
+Supplementary 
+Accessibility 
+Requirements. 
+Appendix E 
+ يتضمن امللحق (هن) متطلبات تحديد النطاق لتصميم إمكانية الوصول
+ .والتي لم ترد في الباب الحادي عشر ولم يتم ذكرها أو تعميمها في الكود
+ تتناول العناصر في امللحق موضوعات لم يتم تناولها عادة في أكواد البناء
+.)(على سايل املثال ، األسرة، مفتات الغرف، مرافق النقل 
+Appendix E includes scoping requirements for Accessible 
+Design that are not in Chapter 11 and not otherwise 
+mentioned or mainstreamed throughout the code. Items 
+in the appendix address subjects not typically addressed 
+in 
+building 
+codes 
+(e.g., beds, 
+room 
+signage, 
+transportation facilities). 
+)امللحق (و 
+.الحماية من القوارض 
+Rodent proofing. 
+Appendix F 
+ تعتبر أحكام هذا امللحق بمثابة الحد األدنى من الطرق امليكانيكية ملنع
+ دخول القوارض إلى املبنى. عند استخدام هذه املعايير بامقتران مع برامج
+ النظافة والصيانة، يمكن.احتمال غزو القوارض للمبنى يقل إلى حد كبير 
+The provisions of this appendix are minimum mechanical 
+methods to prevent the entry of rodents into a building. 
+These standards, when used in conjunction with 
+cleanliness and maintenance programs, can significantly 
+reduce the potential of rodents invading a building. 
+)امللحق (ح 
+.الالفتات 
+Signs. 
+Appendix H 
+ يجمع امللحق (ح) في مكان واحد مواصفات الكود امل تلفة التي تنظم
+ تشييد وحماية الالفتات ال ارجية. كلما كان ذلك ممكنا  ، يوفر امللحق
+ املواصفات بلغة إجرائية، مما يسمح.بأوسع تطبيق ممكن 
+Appendix H gathers in one place the various code 
+standards that regulate the construction and protection 
+of outdoor signs. Whenever possible, the appendix 
+provides standards in performance language, thus 
+allowing the widest possible application. 
+)امللحق (ط 
+.أغطية األفنية 
+Patio Covers. 
+Appendix I 
+ ،يقدم امللحق (ط) املعايير املطبقة على تشييد واستخدام أغطية األفنية
+ ،ويقتصر التطبيق على أغطية األفنية امللحقة بالوحدات السكنية
+ وتخضع أغطية األفنية واملناطق ال ارجية األخرى املرتبطة باملطاعم
+ واملباني التجارية واملكاتب ودور التمريض أو غيرها من املساكن غير
+.املشغولة للمعايير في الكود الرئيس ي وليس هذا امللحق 
+Appendix I provides standards applicable to the 
+construction and use of patio covers. It is limited in 
+application to patio covers accessory to dwelling units. 
+Covers of patios and other outdoor areas associated with 
+restaurants, mercantile buildings, offices, nursing homes 
+or other no dwelling occupancies would be subject to 
+standards in the main code and not this appendix. 
+)امللحق (ي 
+.التسوية 
+Grading. 
+Appendix J 
+ يقدم امللحق (ي) معايير لتسوية املمتلكات، كما يقدم أيض  ا معايير إلدارة
+ وإنفاذ برنامج التسوية بما في ذلك متطلبات التصريح والتفتيش. والغرض
+Appendix J provides standards for the grading of 
+properties. The appendix also provides standards for 
+administration and enforcement of a grading program 
+ 
+ 
+21 
+ 
+ 
+ منه هو توفير متطلبات متسقة وموحدة للكود في أي مكان تعتبر فيه
+.التسوية أمرا مهما 
+including permit and inspection requirements. It is 
+intended to provide consistent and uniform code 
+requirements anywhere grading is considered an issue. 
